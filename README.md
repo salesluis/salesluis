@@ -1,7 +1,5 @@
-- olá, este é meu perfil @salesluis;
-- 👀 I’m interested in aprender mais e participar de projetos;
+- olá, seja muito bem-vindo
 - 🌱 atualmente estou no primeiro semestre da faculdade de ADS(análise e desenvolvimento de sistemas);
-- 💞️ espero colaborar com projetos e aculmular conhecimentos
 - 📫 como chagar até mim: salesluis434@gmail.com
 
 <!---
