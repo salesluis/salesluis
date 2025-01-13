@@ -4,7 +4,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sales._luis/)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whit)](https://www.linkedin.com/in/luis-felipe-596586285/)
 
-![luis GitHub stats](https://github-readme-stats.vercel.app/api?username=salesluis&show_icons=true&theme=radical)
+![luis GitHub stats](https://github-readme-stats.vercel.app/api?username=salesluis&show_icons=true&theme=dark)
 
 
 ## tecnologias que uso e/ou estudo
